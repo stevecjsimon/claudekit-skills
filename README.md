@@ -1,6 +1,6 @@
 # ClaudeKit Agent Skills (Free Collection)
 
-![ClaudeKit Agent Skills](./claudekit.png)
+[![ClaudeKit Agent Skills](./claudekit.png)](https://claudekit.cc)
 
 ## Repository overview
 - **Purpose**: Share the free `.claude/skills/*` folders that power the open ClaudeKit workflows.
