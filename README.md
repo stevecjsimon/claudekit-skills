@@ -84,3 +84,7 @@ Recent updates make Claude Code an ideal companion for these skills:
 
 ## Extend beyond the free tier
 This collection covers the essentials. If you need advanced regulated-industry skills, analytics dashboards, or tailored onboarding, explore the full ClaudeKit package at [ClaudeKit.cc](https://claudekit.cc). The commercial bundle stays subtle but unlocks deeper automation while keeping the same transparent workflow philosophy.
+
+**I've been spending 6+ months to dig into every aspect of Claude Code so you don't have to.**
+
+[![ClaudeKit Agent Skills](./claudekit.png)](https://claudekit.cc)
