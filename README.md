@@ -1,4 +1,4 @@
-# ClaudeKit Agent Skills (Free Collection)
+# ClaudeKit - Agent Skills
 
 ## Repository overview
 - **Purpose**: Share the free `.claude/skills/*` folders that power the open ClaudeKit workflows.
@@ -35,10 +35,34 @@ Recent updates make Claude Code an ideal companion for these skills:
 - **`canvas-design`** - Create museum-quality visual art in PDF/PNG using design philosophy. Generates aesthetic movements first, then expresses them visually through masterful composition, typography, and color theory.
 - **`remix-icon`** - Open-source icon library with 3,100+ icons in outlined and filled styles. Supports webfonts, SVG, React, Vue, and direct integration. Built on 24x24 pixel grid for perfect alignment.
 
+### 🧠 AI & Machine Learning
+- **`gemini-audio`** - Google Gemini API audio capabilities - analyze audio with transcription, summarization, and understanding (up to 9.5 hours), plus generate speech with controllable TTS.
+- **`gemini-document-processing`** - Google Gemini API document processing - analyze PDFs with native vision to extract text, images, diagrams, charts, and tables.
+- **`gemini-image-gen`** - Google Gemini API image generation - create high-quality images from text prompts using gemini-2.5-flash-image model with text-to-image, editing, and composition.
+- **`gemini-video-understanding`** - Google Gemini API video analysis - describe content, answer questions, transcribe audio with visual descriptions, reference timestamps, and process YouTube URLs.
+- **`gemini-vision`** - Google Gemini API image understanding - analyze images with captioning, classification, visual QA, object detection, segmentation, and multi-image comparison.
+
 ### 🌐 Web Development
 - **`nextjs`** - React framework for production with server-side rendering, static generation, App Router, Server Components, and powerful optimization features. Complete guide for Next.js 15+.
 - **`shadcn-ui`** - Beautifully-designed, accessible UI components built with Radix UI and Tailwind CSS. Copy-paste components into your codebase with full ownership and customization.
 - **`tailwindcss`** - Utility-first CSS framework for rapid UI development with responsive design, dark mode, custom themes, and optimized build-time processing.
+
+### 🌐 Browser Automation & Testing
+- **`chrome-devtools`** - Browser automation, debugging, and performance analysis using Puppeteer CLI scripts. Automate browsers, take screenshots, analyze performance, monitor network traffic, web scraping, and form automation.
+
+### ☁️ Cloud Platforms
+- **`cloudflare`** - Build applications on Cloudflare's edge platform with serverless functions (Workers), edge databases (D1), storage (R2, KV), real-time apps (Durable Objects), and AI features (Workers AI).
+- **`cloudflare-browser-rendering`** - Cloudflare's headless browser automation API for screenshots, PDFs, web scraping, and testing. Supports REST API, Workers Bindings (Puppeteer/Playwright), and AI-powered automation.
+- **`cloudflare-r2`** - S3-compatible object storage with zero egress fees. Implement file storage, uploads/downloads, data migration, bucket configuration, and Workers integration.
+- **`cloudflare-workers`** - Build serverless applications with Cloudflare Workers. Develop edge functions, configure bindings, implement runtime APIs, use Wrangler CLI, and deploy to production.
+- **`gcloud`** - Google Cloud SDK (gcloud CLI) for managing Google Cloud resources. Install/configure gcloud, authenticate, manage projects, deploy applications, work with Compute Engine/GKE/App Engine/Cloud Storage.
+
+### 🐳 Infrastructure & DevOps
+- **`docker`** - Containerization platform for building, running, and deploying applications in isolated containers. Create Dockerfiles, use Docker Compose, manage images/containers, configure networking, and optimize builds.
+
+### 🗄️ Databases
+- **`mongodb`** - Document database platform with CRUD operations, aggregation pipelines, indexing, replication, sharding, and search capabilities. Works with Atlas, self-managed, or Kubernetes deployments.
+- **`postgresql-psql`** - PostgreSQL interactive terminal client (psql) for connecting to databases, executing queries, managing databases/tables, formatting output, writing scripts, and database administration.
 
 ### 🛠️ Development Tools
 - **`claude-code`** - Complete guide to Claude Code features: slash commands, hooks, plugins, MCP servers, agent skills, IDE integration, and enterprise deployment.
