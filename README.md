@@ -106,6 +106,10 @@ Recent updates make Claude Code an ideal companion for these skills:
 - **Customize**: Edit the instruction files to match your processes, owners, and tools.
 - **Run**: Open Claude Code, connect the repository, and select the skill that aligns with your task. Claude will follow the playbook while you supervise the diffs.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mrgoonie/claudekit-skills&type=date&legend=top-left)](https://www.star-history.com/#mrgoonie/claudekit-skills&type=date&legend=top-left)
+
 ## Extend beyond the free tier
 This collection covers the essentials. If you need advanced regulated-industry skills, analytics dashboards, or tailored onboarding, explore the full ClaudeKit package at [ClaudeKit.cc](https://claudekit.cc). The commercial bundle stays subtle but unlocks deeper automation while keeping the same transparent workflow philosophy.
 
